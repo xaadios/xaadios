@@ -20,5 +20,5 @@
 - Information Security
 - Strategic Planning
 
-- 😄 Pronouns: xaadios
-- ⚡ Fun fact: Despite working with complex database systems daily, I love exploring new strategies to make them more efficient—sometimes, in my dreams! 💡
+## 😄 Pronouns: xaadios
+## ⚡ Fun fact: Despite working with complex database systems daily, I love exploring new strategies to make them more efficient—sometimes, in my dreams! 💡
