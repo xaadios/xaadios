@@ -8,7 +8,7 @@
   - PhD in Strategic Planning – Currently enrolled
 
 - 💼 **Experience:**
-  - 8+ years in **Database Management** and **Operating Systems**
+  - 9+ years in **Database Management**, **Operating Systems**, and **Software engineering**
   - Trainer in **Software Engineering** and **Information Security**
   - Worked on **6+ Large-Scale projects**
   - Currently the **Database Infrastructure Engineer** at a global bank
